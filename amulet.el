@@ -73,3 +73,5 @@
 		(file-name-directory (buffer-file-name))))
 
 (provide `amulet)
+
+;;; amulet.el ends here
